@@ -1,0 +1,3 @@
+import minesweeper
+
+minesweeper.game()
